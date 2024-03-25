@@ -10,7 +10,7 @@ public class ConnectionUtil {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/test?serverTimezone=UTC";
     private static final Properties DB_PROPERTIES;
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "777441";
+    private static final String PASSWORD = "1234";
 
     static {
         DB_PROPERTIES = new Properties();
